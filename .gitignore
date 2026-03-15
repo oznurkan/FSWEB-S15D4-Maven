@@ -27,3 +27,16 @@ bin/
 
 ### Mac OS ###
 .DS_Store
+
+# Maven build folder
+target/
+
+# compiled files
+*.class
+
+# IntelliJ
+.idea/
+*.iml
+.idea/
+target/
+*.class
